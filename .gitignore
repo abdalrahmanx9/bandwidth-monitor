@@ -8,6 +8,7 @@ __pycache__/
 
 # Data files
 monthly_traffic.json
+capacity_state.json
 
 # Dev files
 .flake8
